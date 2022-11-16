@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+I love to code and solve problems.
+
+Check out my current hobby project "Hotwired". It is a full stack project hosted in aws behind an nginx reverse proxy. There is a main site and an admin dashboard. Mostly focused on the admin features so far for account management (admin and site accounts).
+
 ```javascript
 const dallinca = {
   currentProject: {
     name: HotwiredGaming,
-    tech: [Javascript, Vue, Vuex, Vue-router, HTML, CSS, JWT, MongoDB, Mongoose, Node, Express, Aws, Ec2, Nginx, Gmail-Api]
+    tech: [Javascript, Vue, Vuex, Vue-router, HTML, CSS, JWT, MongoDB, Mongoose, Node, Express, Aws, Ec2, Nginx, Gmail-Api, Git, Github],
     status: Under-Construction
   },
   work: {
